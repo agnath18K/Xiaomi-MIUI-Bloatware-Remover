@@ -114,4 +114,6 @@ adb shell pm disable-user com.xiaomi.location.fused
 adb shell pm disable-user com.xiaomi.mirecycle
 adb shell pm disable-user com.xiaomi.providers.appindex
 adb shell pm disable-user com.xiaomi.xmsf
+Cls
+echo Success.
 pause
