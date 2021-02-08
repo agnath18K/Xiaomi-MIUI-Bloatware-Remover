@@ -81,7 +81,6 @@ adb shell pm disable-user com.android.emergency
 adb shell pm disable-user com.android.internal.display.cutout.emulation.tall
 adb shell pm disable-user com.android.internal.display.cutout.emulation.corner
 adb shell pm disable-user com.android.internal.display.cutout.emulation.double
-adb shell pm disable-user com.google.android.inputmethod.latin
 adb shell pm disable-user com.hippogames.ludosaga.mi
 adb shell pm disable-user com.block.puzzle.game.hippo.mi
 adb shell pm disable-user com.mi.global.shop
